@@ -2,4 +2,3 @@
 /node_modules/
 logfile.log
 .config.env
-yarn.lock*
